@@ -13,14 +13,14 @@ header {
 h1 {
     margin: 0;
     font-size: 2.5rem;
-}
+} 
 /* Bakgrunnsdesign */
 .background {
     position: relative;
     width: 100%
     height: 600px;
     background-color: #e8f4f9;
-    background-image: url('snowy_landscape.jpg');/*sett in ein bilde av vinterlandskap*/
+    background-image: url('snowy_landscape.jpg');
     background-size: cover;
     background-position: center;
 }
